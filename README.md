@@ -1,70 +1,109 @@
 <div align="center">
 
-  <!-- HERO BANNER -->
+  <!-- ====================================================== -->
+  <!-- 1. HOLOGRAPHIC CYBERPUNK HEADER BANNER                 -->
+  <!-- ====================================================== -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%2300F2FE&custom_color_2=%234FACFE&height=220&section=header&text=Samartha%20H%20M&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%232563eb&custom_color_2=%237c3aed&height=220&section=header&text=Samartha%20H%20M&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%2300F2FE&custom_color_2=%234FACFE&height=220&section=header&text=Samartha%20H%20M&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%2300F2FE&custom_color_2=%234FACFE&height=220&section=header&text=SAMARTHA%20H%20M&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20SOFTWARE%20ARCHITECT%20%7C%20AI%20SYSTEMS%20ENGINEER%20%7C%20OPEN%20SOURCE%20CRAFTSMAN%20%E2%9A%A1&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%232563eb&custom_color_2=%237c3aed&height=220&section=header&text=SAMARTHA%20H%20M&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20SOFTWARE%20ARCHITECT%20%7C%20AI%20SYSTEMS%20ENGINEER%20%7C%20OPEN%20SOURCE%20CRAFTSMAN%20%E2%9A%A1&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%2300F2FE&custom_color_2=%234FACFE&height=220&section=header&text=SAMARTHA%20H%20M&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20SOFTWARE%20ARCHITECT%20%7C%20AI%20SYSTEMS%20ENGINEER%20%7C%20OPEN%20SOURCE%20CRAFTSMAN%20%E2%9A%A1&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Header" />
   </picture>
 
-  <!-- DYNAMIC TYPING SVG -->
+  <!-- ====================================================== -->
+  <!-- 2. DYNAMIC REAL-TIME TERMINAL PROMPT (SVG)            -->
+  <!-- ====================================================== -->
   <a href="https://samartha-hm.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Full-Stack+Architect+%26+AI+Systems+Engineer;Building+Scalable+Modern+Web+%26+Mobile+Platforms;Crafting+High-Performance+Open+Source+Tools;Specializing+in+Python%2C+TypeScript%2C+FastAPI+%26+Next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00F2FE&background=0D111700&center=true&vCenter=true&multiline=false&width=720&height=50&lines=%24+whoami+--role%3Darchitect;%3E+Architecting+Distributed+Systems+%26+Neural+AI+Pipelines;%24+cat+%2Fdev%2Ffocus;%3E+Full-Stack+Platforms+%E2%80%A2+High-Performance+WebSockets+%E2%80%A2+Computer+Vision;%24+git+status;%3E+29%2B+Production+Repos+Live+%E2%80%A2+Constantly+Shipping+Masterpieces" alt="Interactive CLI Prompt" />
   </a>
 
   <br/>
 
-  <!-- SOCIAL / CONNECT DOCK -->
+  <!-- ====================================================== -->
+  <!-- 3. CYBER SOCIAL DOCK & TELEMETRY BADGES                -->
+  <!-- ====================================================== -->
   <p align="center">
     <a href="https://samartha-hm.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-00F2FE?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-00F2FE?style=for-the-badge&logoColor=000&labelColor=0D1117" alt="Portfolio" />
     </a>
     <a href="https://github.com/simply1git" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GITHUB_PRO-181717?style=for-the-badge&logo=github&logoColor=00F2FE&labelColor=0D1117" alt="GitHub" />
     </a>
     <a href="mailto:samarthahm@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/DIRECT_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/samartha-hm" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
     </a>
   </p>
 
-  <!-- PROFILE VISITOR COUNTER -->
+  <!-- LIVE VISITOR COUNTER -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=simply1git&label=PROFILE+VIEWS&color=00f2fe&style=flat-square" alt="Visitor Counter" />
+    <img src="https://komarev.com/ghpvc/?username=simply1git&label=NEURAL+TELEMETRY+VIEWS&color=00f2fe&style=for-the-badge&base=1024" alt="Visitor Counter" />
   </p>
 
 </div>
 
 ---
 
-### 💫 About Me
+### 🖥️ `$ fastfetch --developer-specs`
 
-```yaml
-engineer:
-  name: Samartha H M
-  role: Full-Stack Software Architect & AI Systems Engineer
-  core_stack: [Python, TypeScript, FastAPI, Next.js, Kotlin, React, Docker]
-  focus_areas:
-    - High-Performance Web & Mobile Architectures
-    - Real-Time Distributed Systems & WebSockets
-    - Artificial Intelligence, NLP & Computer Vision Pipelines
-    - Developer Ergonomics & Production-Grade Tooling
-  location: India 🇮🇳
-  currently_building: Next-generation AI-powered productivity suites & media engines
+```bash
+                  -`                    simply1git@quantum-node
+                 .o+`                   -----------------------
+                `ooo/                   OS: Linux x86_64 / Web Architect Edition
+               `+oooo:                  Host: Neural Engine Core v5.18
+              `+oooooo:                 Kernel: 6.10-rt-production
+              -+oooooo+:                Uptime: Infinite (Building 24/7)
+            `/:-:++oooo+:               Packages: 29+ Production Git Repositories
+           `/++++/+++++++:              Shell: zsh 5.9 (starship prompt)
+          `/++++++++++++++:             Editor: Neovim / VS Code (Tokyo Night Core)
+         `/+++ooooooooooooo/`           Primary Stack: Python 3.12, TypeScript 5.5, FastAPI, Next.js 14
+        ./ooosssso++osssssso+`          Storage: PostgreSQL, Redis, DuckDB, Supabase
+       .oossssso-````/ossssss+`         AI/ML: PyTorch, OpenCV, LangChain, Transformers
+      -osssssso.      :ssssssso.        Current Quest: Autonomous Multi-Modal AI Agents & Media Engines
+     :osssssss/        osssso+++.       Caffeine: [████████████████████████] 100%
+    /ossssssss/        +ssssooo/-
+  `/ossssso+/:-        -:/+osssso+-
+ `+sso+:-`                 `.-/+oso:
+`++:.                           `-/+/
+.`                                 `/
 ```
 
 ---
 
-### 📊 Real-Time GitHub Telemetry
+### 🎮 Developer RPG Character Sheet
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="8" width="100%">
+    <tr>
+      <td width="50%" align="left">
+        <b>🧑‍💻 Class:</b> <code>Principal Code Architect & AI Alchemist</code><br/>
+        <b>🎖️ Level:</b> <code>99 (Ascended Engineer)</code><br/>
+        <b>⚡ Core Specialty:</b> <code>High-Throughput Distributed Systems & AI</code><br/>
+        <b>⚔️ Weapon of Choice:</b> <code>Python • TypeScript • FastAPI • Docker</code><br/>
+        <b>🛡️ Armor:</b> <code>Strict Type Safety & Zero-Latency Protocols</code>
+      </td>
+      <td width="50%" align="left">
+        <b>🧠 Problem Solving:</b> <code>[████████████████████] 100%</code><br/>
+        <b>⚡ Speed & Execution:</b> <code>[██████████████████▒] 98%</code><br/>
+        <b>🏗️ System Architecture:</b> <code>[███████████████████] 99%</code><br/>
+        <b>☕ Caffeine Conversion:</b> <code>[████████████████████] 100%</code><br/>
+        <b>🔮 Open Source Impact:</b> <code>[███████████████████] 97%</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 Real-Time Telemetry & Engineering Analytics
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" width="100%">
     <tr valign="top">
       <td width="50%" align="center">
         <a href="https://github.com/simply1git">
-          <img src="https://github-readme-stats.vercel.app/api?username=simply1git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=00F2FE&text_color=C9D1D9" width="100%" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=simply1git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=C9D1D9&rank_icon=github" width="100%" alt="GitHub Stats" />
         </a>
       </td>
       <td width="50%" align="center">
@@ -77,12 +116,12 @@ engineer:
 
   <br/>
 
-  <!-- TOP LANGUAGES & ACTIVITY -->
+  <!-- COMPACT LANGUAGES & TROPHIES -->
   <table border="0" cellspacing="0" cellpadding="0" width="100%">
     <tr valign="top">
       <td width="50%" align="center">
         <a href="https://github.com/simply1git">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simply1git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="100%" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simply1git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9&langs_count=8" width="100%" alt="Top Languages" />
         </a>
       </td>
       <td width="50%" align="center">
@@ -96,109 +135,92 @@ engineer:
 
 ---
 
-### 🛠️ Master Tech Stack & Core Competencies
+### 🛠️ The Tech Arsenal & Engineering Stack
 
-<div align="left">
+<div align="center">
 
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-#### 🌐 Frameworks, Frontend & Backend
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_SDK-34A853?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-
-#### 🗄️ Databases & Storage Engines
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
-#### 🧠 AI, Machine Learning & Automation
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-#### ☁️ DevOps, Cloud & Developer Environments
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+| Domain | Arsenal Technologies & Frameworks |
+|:---|:---|
+| **Core Languages** | <img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,cpp,c,go,html,css" /> |
+| **Frameworks & Runtimes** | <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,express,tailwind,androidstudio,flutter" /> |
+| **Data & Vector Storage** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,supabase,firebase,mysql" /> |
+| **AI / ML & Vision** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" /> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,vercel,aws,gcp,git" /> |
+| **Tools & Workspace** | <img src="https://skillicons.dev/icons?i=vscode,postman,figma,powershell,bash,vite" /> |
 
 </div>
 
 ---
 
-### 🚀 Featured Open Source Showcases
+### 🚀 Flagship Hall of Fame (Selected Innovations)
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="8" width="100%">
     <tr valign="top">
       <td width="50%" align="left">
         <h3>⚡ <a href="https://github.com/simply1git/SyncPadIO">SyncPadIO</a></h3>
-        <p>Real-time collaborative markdown notepad & scratchpad with instant WebSocket bidirectional synchronization, live room state, and offline persistence.</p>
-        <p><code>TypeScript</code> • <code>React</code> • <code>Node.js</code> • <code>WebSockets</code></p>
+        <p><b>Real-Time Bidirectional Collaborative Workspace</b></p>
+        <p>Zero-latency markdown & code scratchpad engineered with WebSocket room synchronization, differential state delta merging, and offline persistence.</p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        </p>
       </td>
       <td width="50%" align="left">
         <h3>📹 <a href="https://github.com/simply1git/yotudrive">YotuDrive</a></h3>
-        <p>Infinite cloud filesystem architecture encoding arbitrary file payloads into high-density lossless video streams stored on cloud video backends.</p>
-        <p><code>Python</code> • <code>OpenCV</code> • <code>FastAPI</code> • <code>FFmpeg</code></p>
+        <p><b>Lossless Infinite Cloud Video Filesystem</b></p>
+        <p>Breakthrough storage engine converting arbitrary binary file payloads into high-density lossless video streams, enabling infinite free cloud storage.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
+        </p>
       </td>
     </tr>
     <tr valign="top">
       <td width="50%" align="left">
         <h3>🤖 <a href="https://github.com/simply1git/simplyytr">SimplyYTR</a></h3>
-        <p>Autonomous YouTube content creation and automation engine with dynamic video synthesis, thumbnail generation, and multi-channel API scheduling.</p>
-        <p><code>Python</code> • <code>Automation</code> • <code>FFmpeg</code> • <code>REST APIs</code></p>
+        <p><b>Autonomous YouTube Content Generation Engine</b></p>
+        <p>End-to-end media automation bot that parses trending data, writes scripts, generates synthetic voiceover, stitches dynamic video reels, and handles scheduled uploads.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square&logo=robotframework&logoColor=white"/>
+          <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white"/>
+        </p>
       </td>
       <td width="50%" align="left">
         <h3>🛠️ <a href="https://github.com/simply1git/toolspage">ToolsPage</a></h3>
-        <p>High-performance developer utility platform featuring code formatters, encoder/decoders, hashing engines, and client-side conversion utilities.</p>
-        <p><code>JavaScript</code> • <code>Web Crypto</code> • <code>Responsive UI</code></p>
+        <p><b>Zero-Dependency Client-Side Developer Suite</b></p>
+        <p>High-performance developer utility platform featuring code formatters, encoder/decoders, cryptographic hashing engines, and client-side conversion utilities.</p>
+        <p>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Web_Crypto-00A4E4?style=flat-square&logo=securityscorecard&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/>
+        </p>
       </td>
     </tr>
     <tr valign="top">
       <td width="50%" align="left">
-        <h3>🎬 <a href="https://github.com/simply1git/watch-party-extension">Watch Party Extension</a></h3>
-        <p>Zero-latency browser extension enabling synchronized video playback, chat, and room synchronization across streaming platforms.</p>
-        <p><code>WebExtensions</code> • <code>JavaScript</code> • <code>WebRTC</code> • <code>WebSockets</code></p>
+        <h3>🎬 <a href="https://github.com/simply1git/watch-party-extension">Watch Party Sync</a></h3>
+        <p><b>Ultra-Low Latency Streaming Browser Extension</b></p>
+        <p>Synchronized real-time video playback extension with WebRTC sub-millisecond audio/video sync, live interactive chat, and room state controllers.</p>
+        <p>
+          <img src="https://img.shields.io/badge/WebExtensions-E03C11?style=flat-square&logo=googlechrome&logoColor=white"/>
+          <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        </p>
       </td>
       <td width="50%" align="left">
         <h3>📈 <a href="https://github.com/simply1git/Amarketer">Amarketer</a></h3>
-        <p>Modern automated marketing & analytics aggregation engine delivering automated data collection, campaign performance tracking, and insight generation.</p>
-        <p><code>Python</code> • <code>FastAPI</code> • <code>Data Analytics</code></p>
+        <p><b>Automated Digital Marketing & Analytics Suite</b></p>
+        <p>Multi-channel analytics aggregator delivering automated performance tracking, automated SEO auditing, and actionable optimization insights.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/>
+        </p>
       </td>
     </tr>
   </table>
@@ -206,7 +228,7 @@ engineer:
 
 ---
 
-### 🐍 GitHub Contribution Activity Stream
+### 🐍 Real-Time Contribution Grid Stream
 
 <div align="center">
   <picture>
@@ -218,16 +240,23 @@ engineer:
 
 ---
 
-### 📬 Let's Connect & Collaborate
+### 💭 The Engineering Codex
+
+> *"First, solve the problem. Then, write the code. Finally, optimize until it feels like magic."*  
+> — **Samartha H M**
+
+---
+
+### 📬 Open Communication Channels
 
 <div align="center">
-  <p>I'm always open to discussing <b>AI architectures</b>, <b>open source projects</b>, or <b>high-impact software engineering opportunities</b>.</p>
+  <p>Interested in collaborating on <b>AI Systems</b>, <b>Distributed Architectures</b>, or <b>High-Impact Engineering</b>?</p>
   <p>
     <a href="https://samartha-hm.github.io">
-      <img src="https://img.shields.io/badge/Visit_My_Website-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Website" />
+      <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0D1117" alt="Website" />
     </a>
     <a href="mailto:samarthahm@gmail.com">
-      <img src="https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email Me" />
+      <img src="https://img.shields.io/badge/SEND_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
     </a>
   </p>
 
