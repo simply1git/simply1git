@@ -1,241 +1,271 @@
 <div align="center">
 
-  <!-- ====================================================== -->
-  <!-- 1. BENTO HERO BANNER (PINREST / DRIBBLE AESTHETIC)     -->
-  <!-- ====================================================== -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%2300F2FE&custom_color_2=%234FACFE&height=220&section=header&text=Samartha%20H%20M&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=%E2%9C%A8%20Software%20Architect%20%E2%80%A2%20AI%20Systems%20Engineer%20%E2%80%A2%20Open%20Source%20Craftsman%20%E2%9C%A8&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%232563eb&custom_color_2=%237c3aed&height=220&section=header&text=Samartha%20H%20M&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=%E2%9C%A8%20Software%20Architect%20%E2%80%A2%20AI%20Systems%20Engineer%20%E2%80%A2%20Open%20Source%20Craftsman%20%E2%9C%A8&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%2300F2FE&custom_color_2=%234FACFE&height=220&section=header&text=Samartha%20H%20M&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=%E2%9C%A8%20Software%20Architect%20%E2%80%A2%20AI%20Systems%20Engineer%20%E2%80%A2%20Open%20Source%20Craftsman%20%E2%9C%A8&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Header" />
-  </picture>
+  <!-- ═══════════════════════════════════════════════════ -->
+  <!-- ⚡ ANIMATED CUSTOM SVG HEADER                      -->
+  <!-- ═══════════════════════════════════════════════════ -->
 
-  <!-- ====================================================== -->
-  <!-- 2. DYNAMIC TYPING TAGLINE                              -->
-  <!-- ====================================================== -->
-  <a href="https://samartha-hm.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Building+Scalable+Modern+Web+%26+Mobile+Platforms;Architecting+Distributed+Systems+%26+AI+Pipelines;Crafting+High-Performance+Open-Source+Tools;Specializing+in+Python%2C+TypeScript%2C+FastAPI+%26+Next.js" alt="Typing Tagline" />
+  <a href="https://github.com/simply1git">
+    <img src="./assets/header.svg" width="100%" alt="Samartha H M — Software Architect · AI Systems Engineer · Open Source Craftsman" />
   </a>
 
   <br/>
 
-  <!-- ====================================================== -->
-  <!-- 3. SOCIAL PILL DOCK                                    -->
-  <!-- ====================================================== -->
-  <p align="center">
-    <a href="https://samartha-hm.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-00F2FE?style=for-the-badge&logoColor=000&labelColor=0D1117" alt="Portfolio" />
-    </a>
-    <a href="https://github.com/simply1git" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F2FE&labelColor=0D1117" alt="GitHub" />
-    </a>
-    <a href="mailto:samarthahm@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/samartha-hm" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
-    </a>
-  </p>
+  <!-- ═══════════════════════════════════════════════════ -->
+  <!-- SOCIAL DOCK — MINIMAL NEON ACCENT                  -->
+  <!-- ═══════════════════════════════════════════════════ -->
 
-  <!-- VISITOR COUNTER -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=simply1git&label=PROFILE+VIEWS&color=00f2fe&style=for-the-badge" alt="Visitor Counter" />
-  </p>
+  <a href="https://github.com/simply1git"><img src="https://img.shields.io/badge/-simply1git-0D1117?style=flat-square&logo=github&logoColor=00f2fe" alt="GitHub"/></a>&nbsp;
+  <a href="https://linkedin.com/in/samartha-hm"><img src="https://img.shields.io/badge/-samartha--hm-0D1117?style=flat-square&logo=linkedin&logoColor=00f2fe" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:samarthahm@gmail.com"><img src="https://img.shields.io/badge/-samarthahm-0D1117?style=flat-square&logo=gmail&logoColor=00f2fe" alt="Email"/></a>&nbsp;
+  <a href="https://samartha-hm.github.io"><img src="https://img.shields.io/badge/-portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=00f2fe" alt="Portfolio"/></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=simply1git&style=flat-square&color=00f2fe&label=visitors" alt="Profile Views"/>
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🍱 The Bento Overview
+<img src="./assets/divider.svg" width="100%"/>
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="8" width="100%">
-    <tr valign="top">
-      <!-- About Bento Card -->
-      <td width="60%" align="left">
-        <h3>💫 About Me</h3>
-        <p>I am a <b>Full-Stack Software Architect</b> and <b>AI Systems Engineer</b> passionate about engineering high-throughput distributed applications, real-time WebSockets, and computer vision pipelines.</p>
-        <p>
-          <code>📍 India 🇮🇳</code> • 
-          <code>🚀 29+ Shipped Repos</code> • 
-          <code>🧠 Multi-Modal AI</code> • 
-          <code>⚡ Zero-Latency Architectures</code>
-        </p>
-      </td>
-      <!-- Quick Status Bento Card -->
-      <td width="40%" align="left">
-        <h3>🎯 Currently Building</h3>
-        <p>Architecting autonomous AI agents, lossless cloud storage streaming filesystems, and collaborative developer platforms.</p>
-        <p><b>Focus:</b> <code>FastAPI</code> • <code>Next.js 14</code> • <code>Docker</code> • <code>PyTorch</code></p>
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 💀 ABOUT — TERMINAL AESTHETIC                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### 📊 Real-Time GitHub Telemetry
+```
+ ╔══════════════════════════════════════════════════════════════════════════╗
+ ║                                                                        ║
+ ║   > whoami                                                             ║
+ ║                                                                        ║
+ ║   Full-Stack Software Architect & AI Systems Engineer from India 🇮🇳    ║
+ ║   Building high-throughput distributed systems, real-time WebSocket     ║
+ ║   platforms, autonomous AI agents, and computer vision pipelines.       ║
+ ║                                                                        ║
+ ║   I don't build demos — I ship production systems that scale.          ║
+ ║                                                                        ║
+ ║   > cat /etc/focus                                                     ║
+ ║                                                                        ║
+ ║   ▸ Autonomous AI Agents & Multi-Modal Pipelines                       ║
+ ║   ▸ Lossless Cloud Storage Streaming Engines                           ║
+ ║   ▸ Real-Time Collaborative Developer Platforms                        ║
+ ║   ▸ Zero-Latency WebRTC & WebSocket Architectures                     ║
+ ║                                                                        ║
+ ╚══════════════════════════════════════════════════════════════════════════╝
+```
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-    <tr valign="top">
-      <td width="50%" align="center">
-        <a href="https://github.com/simply1git">
-          <img src="https://github-readme-stats.vercel.app/api?username=simply1git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=C9D1D9&rank_icon=github" width="100%" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/simply1git">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=simply1git&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=FF7B72&currStreakLabel=00F2FE" width="100%" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<br/>
 
-  <br/>
+<img src="./assets/divider.svg" width="100%"/>
 
-  <!-- COMPACT LANGUAGES & TROPHIES -->
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-    <tr valign="top">
-      <td width="50%" align="center">
-        <a href="https://github.com/simply1git">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simply1git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9&langs_count=8" width="100%" alt="Top Languages" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/simply1git">
-          <img src="https://github-profile-trophy.vercel.app/?username=simply1git&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" width="100%" alt="GitHub Trophies" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ⚙️ TECH ARSENAL — NEON GRID                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🎨 The Tech Arsenal (Bento Skills Grid)
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>
+  &nbsp; TECH ARSENAL
+</h3>
 
 <div align="center">
 
-| Domain | Arsenal Technologies & Frameworks |
-|:---|:---|
-| **Core Languages** | <img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,cpp,c,go,html,css" /> |
-| **Frameworks & Frontend** | <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,express,tailwind,androidstudio,flutter" /> |
-| **Storage & Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,supabase,firebase,mysql" /> |
-| **AI, ML & Vision** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" /> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,vercel,aws,gcp,git" /> |
-| **Tooling & Workflow** | <img src="https://skillicons.dev/icons?i=vscode,postman,figma,powershell,bash,vite" /> |
+<table>
+  <tr>
+    <td align="center" width="110"><b>⚡ Core</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,cpp,go&theme=dark" alt="Core Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><b>🏗️ Stack</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,express,flutter&theme=dark" alt="Frameworks"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><b>🧠 AI/ML</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI ML"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><b>💾 Data</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,firebase,sqlite&theme=dark" alt="Databases"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><b>☁️ Infra</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,vercel,aws,gcp&theme=dark" alt="Infrastructure"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
+<br/>
 
-### 🚀 Featured Innovations (Bento Showcases)
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 📊 METRICS — DARK TELEMETRY DASHBOARD                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/>
+  &nbsp; SYSTEM METRICS
+</h3>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="8" width="100%">
-    <tr valign="top">
-      <td width="50%" align="left">
-        <h3>⚡ <a href="https://github.com/simply1git/SyncPadIO">SyncPadIO</a></h3>
-        <p><b>Real-Time Bidirectional Collaborative Workspace</b></p>
-        <p>Zero-latency markdown & code scratchpad engineered with WebSocket room synchronization, differential state delta merging, and offline persistence.</p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%" align="left">
-        <h3>📹 <a href="https://github.com/simply1git/yotudrive">YotuDrive</a></h3>
-        <p><b>Lossless Infinite Cloud Video Filesystem</b></p>
-        <p>Breakthrough storage engine converting arbitrary binary file payloads into high-density lossless video streams, enabling infinite free cloud storage.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-          <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
-        </p>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="50%" align="left">
-        <h3>🤖 <a href="https://github.com/simply1git/simplyytr">SimplyYTR</a></h3>
-        <p><b>Autonomous YouTube Content Generation Engine</b></p>
-        <p>End-to-end media automation bot that parses trending data, writes scripts, generates synthetic voiceover, stitches dynamic video reels, and handles scheduled uploads.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square&logo=robotframework&logoColor=white"/>
-          <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%" align="left">
-        <h3>🛠️ <a href="https://github.com/simply1git/toolspage">ToolsPage</a></h3>
-        <p><b>Zero-Dependency Client-Side Developer Suite</b></p>
-        <p>High-performance developer utility platform featuring code formatters, encoder/decoders, cryptographic hashing engines, and client-side conversion utilities.</p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Web_Crypto-00A4E4?style=flat-square&logo=securityscorecard&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/>
-        </p>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="50%" align="left">
-        <h3>🎬 <a href="https://github.com/simply1git/watch-party-extension">Watch Party Sync</a></h3>
-        <p><b>Ultra-Low Latency Streaming Browser Extension</b></p>
-        <p>Synchronized real-time video playback extension with WebRTC sub-millisecond audio/video sync, live interactive chat, and room state controllers.</p>
-        <p>
-          <img src="https://img.shields.io/badge/WebExtensions-E03C11?style=flat-square&logo=googlechrome&logoColor=white"/>
-          <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        </p>
-      </td>
-      <td width="50%" align="left">
-        <h3>📈 <a href="https://github.com/simply1git/Amarketer">Amarketer</a></h3>
-        <p><b>Automated Digital Marketing & Analytics Suite</b></p>
-        <p>Multi-channel analytics aggregator delivering automated performance tracking, automated SEO auditing, and actionable optimization insights.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/>
-        </p>
-      </td>
-    </tr>
-  </table>
+
+  <!-- Stats + Streak side by side -->
+  <a href="https://github.com/simply1git">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=simply1git&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0e17&title_color=00f2fe&icon_color=7c3aed&text_color=94a3b8&ring_color=00f2fe&rank_icon=github" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/simply1git">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=simply1git&hide_border=true&background=0a0e17&ring=00f2fe&fire=f472b6&currStreakLabel=00f2fe&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=334155" alt="GitHub Streak"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Languages + Trophies -->
+  <a href="https://github.com/simply1git">
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simply1git&layout=compact&hide_border=true&bg_color=0a0e17&title_color=00f2fe&text_color=94a3b8&langs_count=8" alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/simply1git">
+    <img width="58%" src="https://github-profile-trophy.vercel.app/?username=simply1git&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophies"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Activity Graph — full width -->
+  <a href="https://github.com/simply1git">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=simply1git&bg_color=0a0e17&color=94a3b8&line=00f2fe&point=7c3aed&area=true&area_color=00f2fe&hide_border=true&custom_title=CONTRIBUTION%20TELEMETRY"/>
+      <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=simply1git&bg_color=0a0e17&color=94a3b8&line=00f2fe&point=7c3aed&area=true&area_color=00f2fe&hide_border=true&custom_title=CONTRIBUTION%20TELEMETRY" alt="Activity Graph"/>
+    </picture>
+  </a>
+
 </div>
 
----
+<br/>
 
-### 🐍 Real-Time Contribution Grid Stream
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🚀 FEATURED PROJECTS — CARD LAYOUT                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/>
+  &nbsp; DEPLOYED SYSTEMS
+</h3>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [`⚡ SyncPadIO`](https://github.com/simply1git/SyncPadIO)
+> **Real-Time Collaborative Workspace**
+
+Zero-latency markdown & code scratchpad with WebSocket room synchronization, differential state delta merging, and offline persistence.
+
+`TypeScript` `React` `WebSockets` `Node.js`
+
+</td>
+<td width="50%" valign="top">
+
+### [`📹 YotuDrive`](https://github.com/simply1git/yotudrive)
+> **Lossless Infinite Cloud Storage**
+
+Breakthrough engine converting arbitrary binary payloads into high-density lossless video streams — unlimited free cloud storage.
+
+`Python` `OpenCV` `FastAPI` `FFmpeg`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`🤖 SimplyYTR`](https://github.com/simply1git/simplyytr)
+> **Autonomous Content Engine**
+
+End-to-end media bot: parses trends, writes scripts, generates synthetic voiceover, stitches dynamic video reels, handles scheduled uploads.
+
+`Python` `Automation` `REST APIs`
+
+</td>
+<td width="50%" valign="top">
+
+### [`🛠️ ToolsPage`](https://github.com/simply1git/toolspage)
+> **Zero-Dependency Dev Suite**
+
+High-perf developer utility platform: code formatters, encoder/decoders, crypto hash engines, client-side converters. Pure vanilla JS.
+
+`JavaScript` `Web Crypto` `PWA`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`🎬 Watch Party`](https://github.com/simply1git/watch-party-extension)
+> **Ultra-Low Latency Stream Sync**
+
+Browser extension for synchronized real-time video playback with WebRTC sub-millisecond A/V sync, live chat, and room controllers.
+
+`WebExtensions` `WebRTC` `Node.js`
+
+</td>
+<td width="50%" valign="top">
+
+### [`📈 Amarketer`](https://github.com/simply1git/Amarketer)
+> **Automated Marketing Suite**
+
+Multi-channel analytics aggregator: automated performance tracking, SEO auditing, and actionable optimization insights.
+
+`Python` `FastAPI` `Analytics`
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🐍 CONTRIBUTION SNAKE                                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h3 align="center">🐍 CONTRIBUTION GRID</h3>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simply1git/simply1git/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simply1git/simply1git/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/simply1git/simply1git/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/simply1git/simply1git/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
----
+<br/>
 
-### 📬 Open Communication Channels
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🔥 FOOTER                                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <p>Interested in collaborating on <b>AI Systems</b>, <b>Distributed Architectures</b>, or <b>High-Impact Engineering</b>?</p>
-  <p>
-    <a href="https://samartha-hm.github.io">
-      <img src="https://img.shields.io/badge/Explore_Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0D1117" alt="Website" />
-    </a>
-    <a href="mailto:samarthahm@gmail.com">
-      <img src="https://img.shields.io/badge/Send_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
-    </a>
-  </p>
-
-  <br/>
-
-  <!-- FOOTER WAVE -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%2300F2FE&custom_color_2=%234FACFE&height=120&section=footer">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%232563eb&custom_color_2=%237c3aed&height=120&section=footer">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%2300F2FE&custom_color_2=%234FACFE&height=120&section=footer" width="100%" alt="Footer Wave" />
-  </picture>
+  <a href="https://github.com/simply1git">
+    <img src="./assets/footer.svg" width="100%" alt="Footer"/>
+  </a>
 </div>

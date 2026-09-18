@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="900" height="100">
+  <defs>
+    <style>
+      .bg { fill: #0a0e17; }
+      .wave1 { fill: none; stroke: #00f2fe; stroke-width: 1; opacity: 0.15; animation: wave-move1 8s ease-in-out infinite; }
+      .wave2 { fill: none; stroke: #7c3aed; stroke-width: 1; opacity: 0.1; animation: wave-move2 10s ease-in-out infinite 1s; }
+      .wave3 { fill: none; stroke: #f472b6; stroke-width: 0.5; opacity: 0.08; animation: wave-move3 12s ease-in-out infinite 2s; }
+
+      @keyframes wave-move1 {
+        0%,100% { transform: translateX(0); }
+        50% { transform: translateX(15px); }
+      }
+      @keyframes wave-move2 {
+        0%,100% { transform: translateX(0); }
+        50% { transform: translateX(-20px); }
+      }
+      @keyframes wave-move3 {
+        0%,100% { transform: translateX(0); }
+        50% { transform: translateX(10px); }
+      }
+
+      .footer-text {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 10px;
+        fill: #334155;
+        opacity: 0;
+        animation: ft-in 1s ease-out 0.5s forwards;
+      }
+      .footer-accent { fill: #00f2fe; }
+
+      @keyframes ft-in {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+
+      .corner-f { stroke: #1e293b; stroke-width: 1; fill: none; opacity: 0.4; }
+      .line-f { stroke: #0f1520; stroke-width: 0.5; opacity: 0.5; }
+
+      .dot-f { opacity: 0; animation: dot-f-blink 3s ease-in-out infinite; }
+      .df1 { animation-delay: 0s; fill: #00f2fe; }
+      .df2 { animation-delay: 1s; fill: #7c3aed; }
+      .df3 { animation-delay: 2s; fill: #34d399; }
+
+      @keyframes dot-f-blink {
+        0%,100% { opacity: 0.1; }
+        50% { opacity: 0.6; }
+      }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="100"/>
+
+  <!-- Subtle waves -->
+  <path class="wave1" d="M0,60 Q75,30 150,60 T300,60 T450,60 T600,60 T750,60 T900,60"/>
+  <path class="wave2" d="M0,50 Q100,25 200,50 T400,50 T600,50 T800,50 T900,50"/>
+  <path class="wave3" d="M0,70 Q60,45 120,70 T240,70 T360,70 T480,70 T600,70 T720,70 T840,70 T900,70"/>
+
+  <!-- Horizontal lines -->
+  <line class="line-f" x1="50" y1="20" x2="850" y2="20"/>
+  <line class="line-f" x1="100" y1="80" x2="800" y2="80"/>
+
+  <!-- Floating dots -->
+  <circle class="dot-f df1" cx="200" cy="50" r="1.5"/>
+  <circle class="dot-f df2" cx="450" cy="40" r="1.5"/>
+  <circle class="dot-f df3" cx="700" cy="55" r="1.5"/>
+
+  <!-- Corner marks -->
+  <polyline class="corner-f" points="2,15 2,2 15,2"/>
+  <polyline class="corner-f" points="885,2 898,2 898,15"/>
+  <polyline class="corner-f" points="898,85 898,98 885,98"/>
+  <polyline class="corner-f" points="15,98 2,98 2,85"/>
+
+  <!-- Footer text -->
+  <text class="footer-text" x="450" y="55" text-anchor="middle">
+    <tspan class="footer-accent">⟨</tspan> crafted with obsession <tspan class="footer-accent">·</tspan> deployed from india 🇮🇳 <tspan class="footer-accent">·</tspan> always shipping <tspan class="footer-accent">⟩</tspan>
+  </text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 12" width="900" height="12">
+  <defs>
+    <style>
+      .divider-bg { fill: transparent; }
+      .d-line { stroke: #1a2332; stroke-width: 0.5; }
+      .d-glow { stroke: #00f2fe; stroke-width: 1; opacity: 0; animation: glow-sweep 4s ease-in-out infinite; }
+      .d-dot { fill: #00f2fe; opacity: 0.4; }
+      .d-dot-p { fill: #7c3aed; opacity: 0.3; }
+
+      @keyframes glow-sweep {
+        0% { opacity: 0; stroke-dasharray: 80; stroke-dashoffset: 900; }
+        50% { opacity: 0.6; }
+        100% { opacity: 0; stroke-dasharray: 80; stroke-dashoffset: -900; }
+      }
+    </style>
+  </defs>
+
+  <rect class="divider-bg" width="900" height="12"/>
+  <line class="d-line" x1="100" y1="6" x2="800" y2="6"/>
+  <line class="d-glow" x1="100" y1="6" x2="800" y2="6"/>
+  <circle class="d-dot" cx="100" cy="6" r="2"/>
+  <circle class="d-dot-p" cx="450" cy="6" r="1.5"/>
+  <circle class="d-dot" cx="800" cy="6" r="2"/>
+</svg>
