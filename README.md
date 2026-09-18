@@ -1,94 +1,71 @@
 <div align="center">
 
   <!-- ====================================================== -->
-  <!-- 1. HOLOGRAPHIC CYBERPUNK HEADER BANNER                 -->
+  <!-- 1. BENTO HERO BANNER (PINREST / DRIBBLE AESTHETIC)     -->
   <!-- ====================================================== -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%2300F2FE&custom_color_2=%234FACFE&height=220&section=header&text=SAMARTHA%20H%20M&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20SOFTWARE%20ARCHITECT%20%7C%20AI%20SYSTEMS%20ENGINEER%20%7C%20OPEN%20SOURCE%20CRAFTSMAN%20%E2%9A%A1&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%232563eb&custom_color_2=%237c3aed&height=220&section=header&text=SAMARTHA%20H%20M&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20SOFTWARE%20ARCHITECT%20%7C%20AI%20SYSTEMS%20ENGINEER%20%7C%20OPEN%20SOURCE%20CRAFTSMAN%20%E2%9A%A1&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%2300F2FE&custom_color_2=%234FACFE&height=220&section=header&text=SAMARTHA%20H%20M&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20SOFTWARE%20ARCHITECT%20%7C%20AI%20SYSTEMS%20ENGINEER%20%7C%20OPEN%20SOURCE%20CRAFTSMAN%20%E2%9A%A1&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Header" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%2300F2FE&custom_color_2=%234FACFE&height=220&section=header&text=Samartha%20H%20M&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=%E2%9C%A8%20Software%20Architect%20%E2%80%A2%20AI%20Systems%20Engineer%20%E2%80%A2%20Open%20Source%20Craftsman%20%E2%9C%A8&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%232563eb&custom_color_2=%237c3aed&height=220&section=header&text=Samartha%20H%20M&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=%E2%9C%A8%20Software%20Architect%20%E2%80%A2%20AI%20Systems%20Engineer%20%E2%80%A2%20Open%20Source%20Craftsman%20%E2%9C%A8&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%2300F2FE&custom_color_2=%234FACFE&height=220&section=header&text=Samartha%20H%20M&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=%E2%9C%A8%20Software%20Architect%20%E2%80%A2%20AI%20Systems%20Engineer%20%E2%80%A2%20Open%20Source%20Craftsman%20%E2%9C%A8&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Header" />
   </picture>
 
   <!-- ====================================================== -->
-  <!-- 2. DYNAMIC REAL-TIME TERMINAL PROMPT (SVG)            -->
+  <!-- 2. DYNAMIC TYPING TAGLINE                              -->
   <!-- ====================================================== -->
   <a href="https://samartha-hm.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00F2FE&background=0D111700&center=true&vCenter=true&multiline=false&width=720&height=50&lines=%24+whoami+--role%3Darchitect;%3E+Architecting+Distributed+Systems+%26+Neural+AI+Pipelines;%24+cat+%2Fdev%2Ffocus;%3E+Full-Stack+Platforms+%E2%80%A2+High-Performance+WebSockets+%E2%80%A2+Computer+Vision;%24+git+status;%3E+29%2B+Production+Repos+Live+%E2%80%A2+Constantly+Shipping+Masterpieces" alt="Interactive CLI Prompt" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Building+Scalable+Modern+Web+%26+Mobile+Platforms;Architecting+Distributed+Systems+%26+AI+Pipelines;Crafting+High-Performance+Open-Source+Tools;Specializing+in+Python%2C+TypeScript%2C+FastAPI+%26+Next.js" alt="Typing Tagline" />
   </a>
 
   <br/>
 
   <!-- ====================================================== -->
-  <!-- 3. CYBER SOCIAL DOCK & TELEMETRY BADGES                -->
+  <!-- 3. SOCIAL PILL DOCK                                    -->
   <!-- ====================================================== -->
   <p align="center">
     <a href="https://samartha-hm.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-00F2FE?style=for-the-badge&logoColor=000&labelColor=0D1117" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/🌐_Portfolio-00F2FE?style=for-the-badge&logoColor=000&labelColor=0D1117" alt="Portfolio" />
     </a>
     <a href="https://github.com/simply1git" target="_blank">
-      <img src="https://img.shields.io/badge/GITHUB_PRO-181717?style=for-the-badge&logo=github&logoColor=00F2FE&labelColor=0D1117" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F2FE&labelColor=0D1117" alt="GitHub" />
     </a>
     <a href="mailto:samarthahm@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/DIRECT_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/samartha-hm" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
     </a>
   </p>
 
-  <!-- LIVE VISITOR COUNTER -->
+  <!-- VISITOR COUNTER -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=simply1git&label=NEURAL+TELEMETRY+VIEWS&color=00f2fe&style=for-the-badge&base=1024" alt="Visitor Counter" />
+    <img src="https://komarev.com/ghpvc/?username=simply1git&label=PROFILE+VIEWS&color=00f2fe&style=for-the-badge" alt="Visitor Counter" />
   </p>
 
 </div>
 
 ---
 
-### 🖥️ `$ fastfetch --developer-specs`
-
-```bash
-                  -`                    simply1git@quantum-node
-                 .o+`                   -----------------------
-                `ooo/                   OS: Linux x86_64 / Web Architect Edition
-               `+oooo:                  Host: Neural Engine Core v5.18
-              `+oooooo:                 Kernel: 6.10-rt-production
-              -+oooooo+:                Uptime: Infinite (Building 24/7)
-            `/:-:++oooo+:               Packages: 29+ Production Git Repositories
-           `/++++/+++++++:              Shell: zsh 5.9 (starship prompt)
-          `/++++++++++++++:             Editor: Neovim / VS Code (Tokyo Night Core)
-         `/+++ooooooooooooo/`           Primary Stack: Python 3.12, TypeScript 5.5, FastAPI, Next.js 14
-        ./ooosssso++osssssso+`          Storage: PostgreSQL, Redis, DuckDB, Supabase
-       .oossssso-````/ossssss+`         AI/ML: PyTorch, OpenCV, LangChain, Transformers
-      -osssssso.      :ssssssso.        Current Quest: Autonomous Multi-Modal AI Agents & Media Engines
-     :osssssss/        osssso+++.       Caffeine: [████████████████████████] 100%
-    /ossssssss/        +ssssooo/-
-  `/ossssso+/:-        -:/+osssso+-
- `+sso+:-`                 `.-/+oso:
-`++:.                           `-/+/
-.`                                 `/
-```
-
----
-
-### 🎮 Developer RPG Character Sheet
+### 🍱 The Bento Overview
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="8" width="100%">
-    <tr>
-      <td width="50%" align="left">
-        <b>🧑‍💻 Class:</b> <code>Principal Code Architect & AI Alchemist</code><br/>
-        <b>🎖️ Level:</b> <code>99 (Ascended Engineer)</code><br/>
-        <b>⚡ Core Specialty:</b> <code>High-Throughput Distributed Systems & AI</code><br/>
-        <b>⚔️ Weapon of Choice:</b> <code>Python • TypeScript • FastAPI • Docker</code><br/>
-        <b>🛡️ Armor:</b> <code>Strict Type Safety & Zero-Latency Protocols</code>
+    <tr valign="top">
+      <!-- About Bento Card -->
+      <td width="60%" align="left">
+        <h3>💫 About Me</h3>
+        <p>I am a <b>Full-Stack Software Architect</b> and <b>AI Systems Engineer</b> passionate about engineering high-throughput distributed applications, real-time WebSockets, and computer vision pipelines.</p>
+        <p>
+          <code>📍 India 🇮🇳</code> • 
+          <code>🚀 29+ Shipped Repos</code> • 
+          <code>🧠 Multi-Modal AI</code> • 
+          <code>⚡ Zero-Latency Architectures</code>
+        </p>
       </td>
-      <td width="50%" align="left">
-        <b>🧠 Problem Solving:</b> <code>[████████████████████] 100%</code><br/>
-        <b>⚡ Speed & Execution:</b> <code>[██████████████████▒] 98%</code><br/>
-        <b>🏗️ System Architecture:</b> <code>[███████████████████] 99%</code><br/>
-        <b>☕ Caffeine Conversion:</b> <code>[████████████████████] 100%</code><br/>
-        <b>🔮 Open Source Impact:</b> <code>[███████████████████] 97%</code>
+      <!-- Quick Status Bento Card -->
+      <td width="40%" align="left">
+        <h3>🎯 Currently Building</h3>
+        <p>Architecting autonomous AI agents, lossless cloud storage streaming filesystems, and collaborative developer platforms.</p>
+        <p><b>Focus:</b> <code>FastAPI</code> • <code>Next.js 14</code> • <code>Docker</code> • <code>PyTorch</code></p>
       </td>
     </tr>
   </table>
@@ -96,7 +73,7 @@
 
 ---
 
-### 📊 Real-Time Telemetry & Engineering Analytics
+### 📊 Real-Time GitHub Telemetry
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" width="100%">
@@ -135,24 +112,24 @@
 
 ---
 
-### 🛠️ The Tech Arsenal & Engineering Stack
+### 🎨 The Tech Arsenal (Bento Skills Grid)
 
 <div align="center">
 
 | Domain | Arsenal Technologies & Frameworks |
 |:---|:---|
 | **Core Languages** | <img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,cpp,c,go,html,css" /> |
-| **Frameworks & Runtimes** | <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,express,tailwind,androidstudio,flutter" /> |
-| **Data & Vector Storage** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,supabase,firebase,mysql" /> |
-| **AI / ML & Vision** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" /> |
+| **Frameworks & Frontend** | <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,express,tailwind,androidstudio,flutter" /> |
+| **Storage & Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,supabase,firebase,mysql" /> |
+| **AI, ML & Vision** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" /> |
 | **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,vercel,aws,gcp,git" /> |
-| **Tools & Workspace** | <img src="https://skillicons.dev/icons?i=vscode,postman,figma,powershell,bash,vite" /> |
+| **Tooling & Workflow** | <img src="https://skillicons.dev/icons?i=vscode,postman,figma,powershell,bash,vite" /> |
 
 </div>
 
 ---
 
-### 🚀 Flagship Hall of Fame (Selected Innovations)
+### 🚀 Featured Innovations (Bento Showcases)
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="8" width="100%">
@@ -240,23 +217,16 @@
 
 ---
 
-### 💭 The Engineering Codex
-
-> *"First, solve the problem. Then, write the code. Finally, optimize until it feels like magic."*  
-> — **Samartha H M**
-
----
-
 ### 📬 Open Communication Channels
 
 <div align="center">
   <p>Interested in collaborating on <b>AI Systems</b>, <b>Distributed Architectures</b>, or <b>High-Impact Engineering</b>?</p>
   <p>
     <a href="https://samartha-hm.github.io">
-      <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0D1117" alt="Website" />
+      <img src="https://img.shields.io/badge/Explore_Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0D1117" alt="Website" />
     </a>
     <a href="mailto:samarthahm@gmail.com">
-      <img src="https://img.shields.io/badge/SEND_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+      <img src="https://img.shields.io/badge/Send_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
     </a>
   </p>
 
