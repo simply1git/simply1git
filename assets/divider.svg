@@ -1,24 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 12" width="900" height="12">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 12" width="100%" height="12">
   <defs>
-    <style>
-      .divider-bg { fill: transparent; }
-      .d-line { stroke: #1a2332; stroke-width: 0.5; }
-      .d-glow { stroke: #00f2fe; stroke-width: 1; opacity: 0; animation: glow-sweep 4s ease-in-out infinite; }
-      .d-dot { fill: #00f2fe; opacity: 0.4; }
-      .d-dot-p { fill: #7c3aed; opacity: 0.3; }
-
-      @keyframes glow-sweep {
-        0% { opacity: 0; stroke-dasharray: 80; stroke-dashoffset: 900; }
-        50% { opacity: 0.6; }
-        100% { opacity: 0; stroke-dasharray: 80; stroke-dashoffset: -900; }
-      }
-    </style>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#090D16" stop-opacity="0" />
+      <stop offset="20%" stop-color="#1E293B" />
+      <stop offset="50%" stop-color="#00F0FF" />
+      <stop offset="80%" stop-color="#1E293B" />
+      <stop offset="100%" stop-color="#090D16" stop-opacity="0" />
+    </linearGradient>
   </defs>
-
-  <rect class="divider-bg" width="900" height="12"/>
-  <line class="d-line" x1="100" y1="6" x2="800" y2="6"/>
-  <line class="d-glow" x1="100" y1="6" x2="800" y2="6"/>
-  <circle class="d-dot" cx="100" cy="6" r="2"/>
-  <circle class="d-dot-p" cx="450" cy="6" r="1.5"/>
-  <circle class="d-dot" cx="800" cy="6" r="2"/>
+  <line x1="0" y1="6" x2="1200" y2="6" stroke="#1E293B" stroke-width="1" stroke-opacity="0.5" />
+  <rect x="-250" y="5" width="250" height="2" fill="url(#lineGrad)">
+    <animate attributeName="x" from="-250" to="1200" dur="3.5s" repeatCount="indefinite" />
+  </rect>
 </svg>
