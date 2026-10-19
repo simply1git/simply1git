@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ═══════════════════════════════════════════════════ -->
-  <!-- ⚡ ANIMATED CUSTOM SVG HEADER                      -->
+  <!-- ⚡ ANIMATED CUSTOM SVG HEADER                        -->
   <!-- ═══════════════════════════════════════════════════ -->
 
   <a href="https://github.com/simply1git">
@@ -11,7 +11,7 @@
   <br/>
 
   <!-- ═══════════════════════════════════════════════════ -->
-  <!-- SOCIAL DOCK — MINIMAL NEON ACCENT                  -->
+  <!-- SOCIAL DOCK — MINIMAL NEON ACCENT                    -->
   <!-- ═══════════════════════════════════════════════════ -->
 
   <a href="https://github.com/simply1git"><img src="https://img.shields.io/badge/-simply1git-0D1117?style=flat-square&logo=github&logoColor=00f2fe" alt="GitHub"/></a>&nbsp;
@@ -29,28 +29,31 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 💀 ABOUT — TERMINAL AESTHETIC                              -->
+<!-- 💀 ABOUT — TERMINAL AESTHETIC                                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
+
 ```
- ╔══════════════════════════════════════════════════════════════════════════╗
- ║                                                                        ║
- ║   > whoami                                                             ║
- ║                                                                        ║
- ║   Full-Stack Software Architect & AI Systems Engineer from India 🇮🇳    ║
- ║   Building high-throughput distributed systems, real-time WebSocket     ║
- ║   platforms, autonomous AI agents, and computer vision pipelines.       ║
- ║                                                                        ║
- ║   I don't build demos — I ship production systems that scale.          ║
- ║                                                                        ║
- ║   > cat /etc/focus                                                     ║
- ║                                                                        ║
- ║   ▸ Autonomous AI Agents & Multi-Modal Pipelines                       ║
- ║   ▸ Lossless Cloud Storage Streaming Engines                           ║
- ║   ▸ Real-Time Collaborative Developer Platforms                        ║
- ║   ▸ Zero-Latency WebRTC & WebSocket Architectures                     ║
- ║                                                                        ║
- ╚══════════════════════════════════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   > whoami                                                               ║
+║                                                                          ║
+║   Full-Stack Software Architect & AI Systems Engineer from India 🇮🇳     ║
+║   Building high-throughput distributed systems, real-time WebSocket      ║
+║   platforms, autonomous AI agents, and computer vision pipelines.        ║
+║                                                                          ║
+║   I don't build demos — I ship production systems that scale.            ║
+║                                                                          ║
+║   > cat /etc/focus                                                       ║
+║                                                                          ║
+║   ▸ Autonomous AI Agents & Multi-Modal Pipelines                         ║
+║   ▸ Lossless Cloud Storage Streaming Engines                             ║
+║   ▸ Real-Time Collaborative Developer Platforms                          ║
+║   ▸ Zero-Latency WebRTC & WebSocket Architectures                        ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
 ```
 
 <br/>
@@ -60,7 +63,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ⚙️ TECH ARSENAL — NEON GRID                                -->
+<!-- ⚙️ TECH ARSENAL — NEON GRID                                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
@@ -112,7 +115,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 📊 METRICS — DARK TELEMETRY DASHBOARD                      -->
+<!-- 📊 METRICS — DARK TELEMETRY DASHBOARD                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
@@ -142,6 +145,13 @@
 
   <br/><br/>
 
+  <!-- Profile Summary Cards -->
+  <a href="https://github.com/simply1git">
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simply1git&theme=tokyonight" alt="Profile Summary Cards"/>
+  </a>
+
+  <br/><br/>
+
   <!-- Activity Graph — full width -->
   <a href="https://github.com/simply1git">
     <picture>
@@ -159,7 +169,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 🚀 FEATURED PROJECTS — CARD LAYOUT                        -->
+<!-- 🚀 FEATURED PROJECTS — CARD LAYOUT                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <h3 align="center">
@@ -245,7 +255,7 @@ Multi-channel analytics aggregator: automated performance tracking, SEO auditing
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE                                     -->
+<!-- 🐍 CONTRIBUTION SNAKE                                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <h3 align="center">🐍 CONTRIBUTION GRID</h3>
@@ -261,7 +271,7 @@ Multi-channel analytics aggregator: automated performance tracking, SEO auditing
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 🔥 FOOTER                                                 -->
+<!-- 🔥 FOOTER                                                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
